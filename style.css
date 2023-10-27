@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    background-color: blanchedalmond;
+    justify-content: space-evenly;
+}
